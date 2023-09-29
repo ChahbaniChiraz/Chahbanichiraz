@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chiraz Chahbani</h1>
-<h3 align="center">A passionate frontend developer frorm Tunisia</h3>
-
+<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<img align=”right” alt=”Coding” width=”400” src=”https://lexica.art/prompt/f58db949-2d7e-44c6-a0a8-aeaae80fe00b”>
 - 🔭 I’m currently working on **BE-Syessah**
 
 - 🌱 I’m currently learning **React**
