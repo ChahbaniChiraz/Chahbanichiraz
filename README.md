@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chiraz Chahbani</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **BE-Syessah**
+- 🔭 I’m currently working on **SFM Tech**
 
 - 🌱 I’m currently learning **React**
 
