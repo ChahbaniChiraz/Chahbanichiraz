@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **Flutter , Dart**
 
-- 📝 I regularly write articles on [(https://medium.com/@chirazchahbeni)]
+- 📝 I regularly write articles on [Medium](https://medium.com/@chirazchahbeni)
 
 - 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **chirazchahbeni@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1NXz0dmrJiXGKbfnJVUb7zlTkFmbhd2QD/view?usp=sharing)
+- 📄 Know about my experiences on [My Resume] (https://drive.google.com/file/d/1NXz0dmrJiXGKbfnJVUb7zlTkFmbhd2QD/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Funny**
 
