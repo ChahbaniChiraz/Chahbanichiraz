@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Chiraz Chahbani</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate Software Engineer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47p04vhgdq0oky52r3bgj1miyz6l53nk9bh2f56mz7&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on **SFM Tech**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Flutter , React**
+- 👯 I’m looking to collaborate on **GCP , AWS**
 
 - 🤝 I’m looking for help with **Flutter , Dart**
 
-- 📝 I regularly write articles on [Blog link](Blog link)
+- 📝 I regularly write articles on [(https://medium.com/@chirazchahbeni)]
 
-- 💬 Ask me about **love coding**
+- 💬 Ask me about **Cloud Computing**
 
 - 📫 How to reach me **chirazchahbeni@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1NXz0dmrJiXGKbfnJVUb7zlTkFmbhd2QD/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm Funny**
 
